@@ -1,0 +1,5 @@
+semantic-kernel
+azure-storage-blob
+python-dotenv
+pandas
+tabulate
